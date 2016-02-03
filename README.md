@@ -6,3 +6,4 @@ Repositorio creado para los proyectos de la clase Sistemas Operativos. Primer ci
 		- PABLO DAVID AGUILAR BARCO 1022810
 		- SERGIO RENE MENA VELASQUEZ 1183905
 		- ALVARO JOSÉ ORTIZ PÉREZ 1200211
+		PRUEBA LOCAL
